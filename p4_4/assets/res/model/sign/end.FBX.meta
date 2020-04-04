@@ -1,0 +1,123 @@
+{
+  "ver": "1.3.16",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60",
+  "files": [],
+  "subMetas": {
+    "41418": {
+      "ver": "1.0.9",
+      "importer": "gltf-scene",
+      "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@41418",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "41418",
+      "name": "end.FBX.prefab"
+    },
+    "b8a2d": {
+      "ver": "1.0.8",
+      "importer": "gltf-mesh",
+      "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@b8a2d",
+      "imported": true,
+      "files": [
+        ".json",
+        ".bin"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "b8a2d",
+      "name": "Plane001.mesh"
+    },
+    "9defe": {
+      "ver": "1.0.2",
+      "importer": "gltf-embeded-image",
+      "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@9defe",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "9defe",
+      "name": "贴图 #8.image"
+    },
+    "bc797": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@bc797",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "61cc1e82-3a26-475e-810e-21615dea7f60@9defe"
+      },
+      "displayName": "",
+      "id": "bc797",
+      "name": "贴图 #8.texture"
+    },
+    "84e8a": {
+      "ver": "1.0.13",
+      "importer": "gltf-material",
+      "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@84e8a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      },
+      "displayName": "",
+      "id": "84e8a",
+      "name": "Material #91.material"
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "贴图 #8",
+        "uri": "61cc1e82-3a26-475e-810e-21615dea7f60@9defe"
+      }
+    ],
+    "redirect": "61cc1e82-3a26-475e-810e-21615dea7f60@41418",
+    "assetFinder": {
+      "meshes": [
+        "61cc1e82-3a26-475e-810e-21615dea7f60@b8a2d"
+      ],
+      "skeletons": [],
+      "textures": [
+        "61cc1e82-3a26-475e-810e-21615dea7f60@bc797"
+      ],
+      "materials": [
+        "61cc1e82-3a26-475e-810e-21615dea7f60@84e8a"
+      ],
+      "scenes": [
+        "61cc1e82-3a26-475e-810e-21615dea7f60@41418"
+      ]
+    }
+  }
+}
