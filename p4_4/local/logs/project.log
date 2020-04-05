@@ -34,3 +34,22 @@
 2020-04-05 10:55:33-log: windows@1.0.0 enable
 2020-04-05 10:55:33-log: xiaomi-quick-game@1.0.0 enable
 2020-04-05 10:55:46-warn: [Scene] Sender does not exist
+2020-04-05 11:23:59-error: [Scene] SyntaxError: Unexpected reserved word
+2020-04-05 11:23:59-error: [Scene] An exception is thrown during load of module "project:///assets/script/point.js" (or its recursive dependencies).
+ [SyntaxError: Unexpected reserved word]
+2020-04-05 11:23:59-error: [Scene] An exception is thrown during load of module "project:///assets/script/point.js" (or its recursive dependencies).  [SyntaxError: Unexpected reserved word]
+2020-04-05 11:23:59-error: [Scene] SyntaxError: Unexpected reserved word
+2020-04-05 11:23:59-error: [Scene] An exception is thrown during load of module "project:///assets/script/point.js" (or its recursive dependencies).
+ [SyntaxError: Unexpected reserved word]
+2020-04-05 11:23:59-error: [Scene] An exception is thrown during load of module "project:///assets/script/point.js" (or its recursive dependencies).  [SyntaxError: Unexpected reserved word]
+2020-04-05 11:32:15-error: [Scene] Please define 'type' parameter of point.type as the constructor of [object Object].
+2020-04-05 11:32:15-error: [Scene] Please define 'type' parameter of point.moveType as the constructor of [object Object].
+2020-04-05 11:32:15-error: [Scene] Please define 'type' parameter of point.type as the constructor of [object Object].
+2020-04-05 11:32:15-error: [Scene] Please define 'type' parameter of point.moveType as the constructor of [object Object].
+2020-04-05 11:36:42-error: [Scene] Please define 'type' parameter of point.type as the constructor of [object Object].
+2020-04-05 11:36:42-error: [Scene] Please define 'type' parameter of point.moveType as the constructor of [object Object].
+2020-04-05 11:36:43-error: [Scene] Please define 'type' parameter of point.type as the constructor of [object Object].
+2020-04-05 11:36:43-error: [Scene] Please define 'type' parameter of point.moveType as the constructor of [object Object].
+2020-04-05 11:44:31-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
+2020-04-05 11:46:18-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
+2020-04-05 11:46:19-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
