@@ -1,269 +1,71 @@
-2020-04-05 13:32:14-log: ui-kit@1.0.0 enable
-2020-04-05 13:32:14-log: ipc@1.0.0 enable
-2020-04-05 13:32:14-log: tester@1.0.0 enable
-2020-04-05 13:32:14-log: preferences@1.0.0 enable
-2020-04-05 13:32:16-log: engine@1.0.0 enable
-2020-04-05 13:32:16-log: asset-db@1.0.0 enable
-2020-04-05 13:32:16-log: console@1.0.0 enable
-2020-04-05 13:32:16-log: scene@1.0.0 enable
-2020-04-05 13:32:16-log: packager@1.0.0 enable
-2020-04-05 13:32:16-log: project-setting@1.0.0 enable
-2020-04-05 13:32:16-log: about@1.0.0 enable
-2020-04-05 13:32:17-log: server@1.0.0 enable
-2020-04-05 13:32:17-log: utils@1.0.0 enable
-2020-04-05 13:32:17-log: profile@1.0.0 enable
-2020-04-05 13:32:17-log: assets@1.0.0 enable
-2020-04-05 13:32:17-log: inspector@1.0.0 enable
-2020-04-05 13:32:17-log: hierarchy@1.0.0 enable
-2020-04-05 13:32:17-log: preview@1.0.0 enable
-2020-04-05 13:32:17-log: animator@1.0.0 enable
-2020-04-05 13:32:17-log: builder@1.0.0 enable
-2020-04-05 13:32:17-log: alipay-mini-game@1.0.0 enable
-2020-04-05 13:32:17-log: android@1.0.0 enable
-2020-04-05 13:32:18-log: baidu-mini-game@1.0.0 enable
-2020-04-05 13:32:18-log: cocos-play@1.0.0 enable
-2020-04-05 13:32:18-log: huawei-mini-game@1.0.0 enable
-2020-04-05 13:32:18-log: ios@1.0.0 enable
-2020-04-05 13:32:18-log: mac@1.0.0 enable
-2020-04-05 13:32:18-log: native@1.0.0 enable
-2020-04-05 13:32:18-log: oppo-mini-game@1.0.0 enable
-2020-04-05 13:32:18-log: vivo-mini-game@1.0.0 enable
-2020-04-05 13:32:18-log: web-desktop@1.0.0 enable
-2020-04-05 13:32:18-log: web-mobile@1.0.0 enable
-2020-04-05 13:32:18-log: wechatgame@1.0.0 enable
-2020-04-05 13:32:18-log: windows@1.0.0 enable
-2020-04-05 13:32:18-log: xiaomi-quick-game@1.0.0 enable
-2020-04-05 13:32:24-warn: [Scene] Sender does not exist
-2020-04-05 13:40:12-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
-2020-04-05 13:52:26-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
-2020-04-05 13:56:05-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
-2020-04-05 14:00:35-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
-2020-04-05 14:02:05-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
-2020-04-05 14:11:40-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
-2020-04-05 14:11:50-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:50-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:51-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:52-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:53-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:54-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:55-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:56-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:57-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:58-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:58-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:58-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:58-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:58-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:58-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:58-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:11:59-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:00-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:00-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:00-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:00-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:00-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:00-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:00-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:01-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:01-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:01-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:01-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:01-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:02-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:02-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:02-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:02-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:02-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:02-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:02-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:03-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:03-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:03-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:03-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:03-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:03-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:04-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:04-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:04-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:04-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:04-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:04-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:05-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:06-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:06-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:06-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:06-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:06-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:06-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:06-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:07-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:07-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:07-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:07-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:07-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:07-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:07-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:08-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:08-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:08-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:08-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:08-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:08-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:09-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:09-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:09-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:09-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:09-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:10-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:10-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:10-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:10-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:10-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:10-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:11-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:11-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:11-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:11-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:11-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:11-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:12-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:12-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:12-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:12-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:12-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:13-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:13-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:13-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:13-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
-2020-04-05 14:12:14-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:14-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:14-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:15-info: asset(E:\github\cocos3D\p4_4\assets\sence\game.scene) saved
-2020-04-05 14:12:15-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:15-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:15-error: [preview-error]Uncaught Error: 错误 in http://localhost:7456/scripting/assets/script/tslerne.js
-2020-04-05 14:12:34-warn: [Window] Error: IPC time out
-2020-04-05 14:12:35-warn: [Window] Error: IPC time out
-2020-04-05 14:12:35-error: [Window] Error: IPC time out
-2020-04-05 14:12:35-warn: [Scene] Error: IPC time out
-2020-04-05 14:12:35-warn: [Window] IPC message has been lost, response may timeout.
-2020-04-05 14:12:35-warn: [Window] IPC message has been lost, response may timeout.
-2020-04-05 14:27:08-warn: [Scene] IPC message has been lost, response may timeout.
+2020-04-10 14:47:01-log: ui-kit@1.0.0 enable
+2020-04-10 14:47:01-log: ipc@1.0.0 enable
+2020-04-10 14:47:01-log: tester@1.0.0 enable
+2020-04-10 14:47:01-log: preferences@1.0.0 enable
+2020-04-10 14:47:06-log: engine@1.0.0 enable
+2020-04-10 14:47:06-log: asset-db@1.0.0 enable
+2020-04-10 14:47:06-log: console@1.0.0 enable
+2020-04-10 14:47:07-log: scene@1.0.0 enable
+2020-04-10 14:47:07-log: packager@1.0.0 enable
+2020-04-10 14:47:07-log: project-setting@1.0.0 enable
+2020-04-10 14:47:07-log: about@1.0.0 enable
+2020-04-10 14:47:07-log: server@1.0.0 enable
+2020-04-10 14:47:07-log: utils@1.0.0 enable
+2020-04-10 14:47:07-log: profile@1.0.0 enable
+2020-04-10 14:47:07-log: assets@1.0.0 enable
+2020-04-10 14:47:07-log: inspector@1.0.0 enable
+2020-04-10 14:47:07-log: hierarchy@1.0.0 enable
+2020-04-10 14:47:07-log: preview@1.0.0 enable
+2020-04-10 14:47:07-log: animator@1.0.0 enable
+2020-04-10 14:47:09-log: builder@1.0.0 enable
+2020-04-10 14:47:09-log: alipay-mini-game@1.0.0 enable
+2020-04-10 14:47:09-log: android@1.0.0 enable
+2020-04-10 14:47:09-log: baidu-mini-game@1.0.0 enable
+2020-04-10 14:47:09-log: cocos-play@1.0.0 enable
+2020-04-10 14:47:09-log: huawei-mini-game@1.0.0 enable
+2020-04-10 14:47:09-log: ios@1.0.0 enable
+2020-04-10 14:47:09-log: mac@1.0.0 enable
+2020-04-10 14:47:09-log: native@1.0.0 enable
+2020-04-10 14:47:10-log: oppo-mini-game@1.0.0 enable
+2020-04-10 14:47:10-log: vivo-mini-game@1.0.0 enable
+2020-04-10 14:47:10-log: web-desktop@1.0.0 enable
+2020-04-10 14:47:10-log: web-mobile@1.0.0 enable
+2020-04-10 14:47:10-log: wechatgame@1.0.0 enable
+2020-04-10 14:47:10-log: windows@1.0.0 enable
+2020-04-10 14:47:10-log: xiaomi-quick-game@1.0.0 enable
+2020-04-10 14:47:01-log: ui-kit@1.0.0 enable
+2020-04-10 14:47:01-log: ipc@1.0.0 enable
+2020-04-10 14:47:01-log: tester@1.0.0 enable
+2020-04-10 14:47:01-log: preferences@1.0.0 enable
+2020-04-10 14:47:07-log: engine@1.0.0 enable
+2020-04-10 14:47:07-log: asset-db@1.0.0 enable
+2020-04-10 14:47:07-log: console@1.0.0 enable
+2020-04-10 14:47:07-log: scene@1.0.0 enable
+2020-04-10 14:47:08-log: packager@1.0.0 enable
+2020-04-10 14:47:08-log: project-setting@1.0.0 enable
+2020-04-10 14:47:08-log: about@1.0.0 enable
+2020-04-10 14:47:08-log: server@1.0.0 enable
+2020-04-10 14:47:08-log: utils@1.0.0 enable
+2020-04-10 14:47:08-log: profile@1.0.0 enable
+2020-04-10 14:47:08-log: assets@1.0.0 enable
+2020-04-10 14:47:08-log: inspector@1.0.0 enable
+2020-04-10 14:47:08-log: hierarchy@1.0.0 enable
+2020-04-10 14:47:08-log: preview@1.0.0 enable
+2020-04-10 14:47:09-log: animator@1.0.0 enable
+2020-04-10 14:47:09-warn: Port 7456 is occupied
+2020-04-10 14:47:10-log: builder@1.0.0 enable
+2020-04-10 14:47:10-log: alipay-mini-game@1.0.0 enable
+2020-04-10 14:47:10-log: android@1.0.0 enable
+2020-04-10 14:47:10-log: baidu-mini-game@1.0.0 enable
+2020-04-10 14:47:11-log: cocos-play@1.0.0 enable
+2020-04-10 14:47:11-log: huawei-mini-game@1.0.0 enable
+2020-04-10 14:47:11-log: ios@1.0.0 enable
+2020-04-10 14:47:11-log: mac@1.0.0 enable
+2020-04-10 14:47:11-log: native@1.0.0 enable
+2020-04-10 14:47:11-log: oppo-mini-game@1.0.0 enable
+2020-04-10 14:47:11-log: vivo-mini-game@1.0.0 enable
+2020-04-10 14:47:11-log: web-desktop@1.0.0 enable
+2020-04-10 14:47:11-log: web-mobile@1.0.0 enable
+2020-04-10 14:47:12-log: wechatgame@1.0.0 enable
+2020-04-10 14:47:12-log: windows@1.0.0 enable
+2020-04-10 14:47:12-log: xiaomi-quick-game@1.0.0 enable
