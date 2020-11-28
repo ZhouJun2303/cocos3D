@@ -1,28 +1,12 @@
 {
-  "ver": "1.3.16",
+  "ver": "1.3.21",
   "importer": "fbx",
   "imported": true,
   "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60",
   "files": [],
   "subMetas": {
-    "41418": {
-      "ver": "1.0.9",
-      "importer": "gltf-scene",
-      "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@41418",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {},
-      "userData": {
-        "gltfIndex": 0
-      },
-      "displayName": "",
-      "id": "41418",
-      "name": "end.FBX.prefab"
-    },
     "b8a2d": {
-      "ver": "1.0.8",
+      "ver": "1.1.0",
       "importer": "gltf-mesh",
       "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@b8a2d",
       "imported": true,
@@ -80,7 +64,7 @@
       "name": "贴图 #8.texture"
     },
     "84e8a": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@84e8a",
       "imported": true,
@@ -94,6 +78,22 @@
       "displayName": "",
       "id": "84e8a",
       "name": "Material #91.material"
+    },
+    "5eade": {
+      "importer": "gltf-scene",
+      "uuid": "61cc1e82-3a26-475e-810e-21615dea7f60@5eade",
+      "displayName": "",
+      "id": "5eade",
+      "name": "end.prefab",
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "gltfIndex": 0
+      }
     }
   },
   "userData": {
@@ -103,7 +103,7 @@
         "uri": "61cc1e82-3a26-475e-810e-21615dea7f60@9defe"
       }
     ],
-    "redirect": "61cc1e82-3a26-475e-810e-21615dea7f60@41418",
+    "redirect": "61cc1e82-3a26-475e-810e-21615dea7f60@5eade",
     "assetFinder": {
       "meshes": [
         "61cc1e82-3a26-475e-810e-21615dea7f60@b8a2d"
@@ -116,7 +116,7 @@
         "61cc1e82-3a26-475e-810e-21615dea7f60@84e8a"
       ],
       "scenes": [
-        "61cc1e82-3a26-475e-810e-21615dea7f60@41418"
+        "61cc1e82-3a26-475e-810e-21615dea7f60@5eade"
       ]
     }
   }

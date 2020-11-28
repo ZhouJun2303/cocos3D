@@ -1,12 +1,12 @@
 {
-  "ver": "1.3.16",
+  "ver": "1.3.21",
   "importer": "fbx",
   "imported": true,
   "uuid": "971c0925-8474-4f51-adac-10305e61ced6",
   "files": [],
   "subMetas": {
     "274e2": {
-      "ver": "1.0.8",
+      "ver": "1.1.0",
       "importer": "gltf-mesh",
       "uuid": "971c0925-8474-4f51-adac-10305e61ced6@274e2",
       "imported": true,
@@ -23,7 +23,7 @@
       "name": "girl02.mesh"
     },
     "73b7f": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-animation",
       "uuid": "971c0925-8474-4f51-adac-10305e61ced6@73b7f",
       "imported": true,
@@ -39,14 +39,15 @@
           "from": 0,
           "to": 0.6666666865348816
         },
-        "events": []
+        "events": [],
+        "wrapMode": 2
       },
       "displayName": "",
       "id": "73b7f",
       "name": "Take 001.animation"
     },
     "438fe": {
-      "ver": "1.0.0",
+      "ver": "1.0.1",
       "importer": "gltf-skeleton",
       "uuid": "971c0925-8474-4f51-adac-10305e61ced6@438fe",
       "imported": true,
@@ -55,7 +56,8 @@
       ],
       "subMetas": {},
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 0,
+        "jointsLength": 17
       },
       "displayName": "",
       "id": "438fe",
@@ -103,7 +105,7 @@
       "name": "贴图 #2.texture"
     },
     "fe5ee": {
-      "ver": "1.0.13",
+      "ver": "1.0.14",
       "importer": "gltf-material",
       "uuid": "971c0925-8474-4f51-adac-10305e61ced6@fe5ee",
       "imported": true,
@@ -119,7 +121,7 @@
       "name": "Material #5.material"
     },
     "7b338": {
-      "ver": "1.0.9",
+      "ver": "1.0.11",
       "importer": "gltf-scene",
       "uuid": "971c0925-8474-4f51-adac-10305e61ced6@7b338",
       "imported": true,
@@ -151,7 +153,8 @@
           {
             "name": "Take 001",
             "from": 0,
-            "to": 0.6666666865348816
+            "to": 0.6666666865348816,
+            "wrapMode": 2
           }
         ]
       }

@@ -1,37 +1,112 @@
-2020-06-20 18:20:43-warn: [Window] Error: 会话钥匙无效
-2020-06-20 18:20:53-log: ui-kit@1.0.0 enable
-2020-06-20 18:20:53-log: ipc@1.0.0 enable
-2020-06-20 18:20:53-log: tester@1.0.0 enable
-2020-06-20 18:20:53-log: preferences@1.0.0 enable
-2020-06-20 18:20:54-log: engine@1.0.0 enable
-2020-06-20 18:20:55-log: asset-db@1.0.0 enable
-2020-06-20 18:20:55-log: console@1.0.0 enable
-2020-06-20 18:20:55-log: scene@1.0.0 enable
-2020-06-20 18:20:55-log: packager@1.0.0 enable
-2020-06-20 18:20:55-log: project-setting@1.0.0 enable
-2020-06-20 18:20:55-log: about@1.0.0 enable
-2020-06-20 18:20:55-log: server@1.0.0 enable
-2020-06-20 18:20:55-log: utils@1.0.0 enable
-2020-06-20 18:20:55-log: profile@1.0.0 enable
-2020-06-20 18:20:55-log: assets@1.0.0 enable
-2020-06-20 18:20:55-log: inspector@1.0.0 enable
-2020-06-20 18:20:55-log: hierarchy@1.0.0 enable
-2020-06-20 18:20:55-log: preview@1.0.0 enable
-2020-06-20 18:20:55-log: animator@1.0.0 enable
-2020-06-20 18:20:55-log: builder@1.0.0 enable
-2020-06-20 18:20:55-log: alipay-mini-game@1.0.0 enable
-2020-06-20 18:20:55-log: android@1.0.0 enable
-2020-06-20 18:20:55-log: baidu-mini-game@1.0.0 enable
-2020-06-20 18:20:55-log: cocos-play@1.0.0 enable
-2020-06-20 18:20:55-log: huawei-mini-game@1.0.0 enable
-2020-06-20 18:20:55-log: ios@1.0.0 enable
-2020-06-20 18:20:55-log: mac@1.0.0 enable
-2020-06-20 18:20:55-log: native@1.0.0 enable
-2020-06-20 18:20:55-log: oppo-mini-game@1.0.0 enable
-2020-06-20 18:20:55-log: vivo-mini-game@1.0.0 enable
-2020-06-20 18:20:55-log: web-desktop@1.0.0 enable
-2020-06-20 18:20:55-log: web-mobile@1.0.0 enable
-2020-06-20 18:20:55-log: wechatgame@1.0.0 enable
-2020-06-20 18:20:55-log: windows@1.0.0 enable
-2020-06-20 18:20:55-log: xiaomi-quick-game@1.0.0 enable
-2020-06-20 18:21:02-warn: [Scene] Sender does not exist
+2020-11-28 13:55:09-log: [Package] ui-kit@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] ipc@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] tester@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] preferences@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] engine@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] asset-db@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] console@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] scene@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] packager@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] project-setting@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] server@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] utils@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] about@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] profile@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] assets@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] inspector@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] hierarchy@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] preview@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] animator@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] builder@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] lightmap@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] alipay-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] baidu-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] cocos-play@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] ios@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] huawei-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] mac@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] native@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] oppo-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] vivo-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] android@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] web-desktop@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] web-mobile@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] bytedance-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] xiaomi-quick-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] wechatgame@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] windows@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] ui-kit@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] tester@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] engine@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] preferences@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] ipc@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] asset-db@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] project-setting@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] scene@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] packager@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] console@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] utils@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] profile@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] assets@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] inspector@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] hierarchy@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] preview@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] animator@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] server@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] builder@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] lightmap@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] alipay-mini-game@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] about@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] android@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] baidu-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] bytedance-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] huawei-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] mac@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] native@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] oppo-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] web-desktop@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] vivo-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] web-mobile@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] windows@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] xiaomi-quick-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] cocos-play@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] ios@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] wechatgame@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] ui-kit@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] ipc@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] tester@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] engine@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] asset-db@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] console@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] packager@1.0.0 enable
+2020-11-28 13:55:09-log: [Package] preferences@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] scene@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] profile@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] project-setting@1.0.0 enable
+2020-11-28 13:55:12-log: [Package] about@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] utils@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] hierarchy@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] inspector@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] preview@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] animator@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] server@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] lightmap@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] builder@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] android@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] alipay-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] baidu-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] cocos-play@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] assets@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] bytedance-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] huawei-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] ios@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] native@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] mac@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] oppo-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] windows@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] wechatgame@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] web-desktop@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] vivo-mini-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] xiaomi-quick-game@1.0.0 enable
+2020-11-28 13:55:13-log: [Package] web-mobile@1.0.0 enable
+2020-11-28 14:07:30-log: [Package] hello-world@1.0.0 enable

@@ -11,7 +11,6 @@
     {
       "USE_VERTEX_COLOR": true,
       "HAS_SECOND_UV": true,
-      "USE_SKINNING": true,
       "USE_ALBEDO_MAP": true
     }
   ],
@@ -28,7 +27,7 @@
   ],
   "_props": [
     {
-      "albedoMap": {
+      "mainTexture": {
         "__uuid__": "81068472-7fef-475e-81b0-075ea364e9e5@3efb2"
       },
       "albedoScale": {

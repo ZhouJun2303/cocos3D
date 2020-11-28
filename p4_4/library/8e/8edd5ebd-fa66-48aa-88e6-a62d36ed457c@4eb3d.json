@@ -25,7 +25,7 @@
   ],
   "_props": [
     {
-      "albedoMap": {
+      "mainTexture": {
         "__uuid__": "8edd5ebd-fa66-48aa-88e6-a62d36ed457c@bfae8"
       },
       "albedoScale": {

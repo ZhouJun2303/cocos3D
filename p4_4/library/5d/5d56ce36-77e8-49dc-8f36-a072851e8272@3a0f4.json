@@ -10,16 +10,8 @@
         "vertexBundelIndices": [
           0
         ],
-        "geometricInfo": {
-          "view": {
-            "offset": 14592,
-            "length": 3648,
-            "count": 912,
-            "stride": 4
-          }
-        },
         "indexView": {
-          "offset": 18240,
+          "offset": 14592,
           "length": 1116,
           "count": 558,
           "stride": 2
@@ -71,6 +63,6 @@
       "z": 0.01377981435507536
     }
   },
-  "_dataLength": 19356,
-  "_hash": 3792159856
+  "_dataLength": 15708,
+  "_hash": 2103584046
 }

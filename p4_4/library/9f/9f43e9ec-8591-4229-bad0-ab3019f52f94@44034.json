@@ -10,16 +10,8 @@
         "vertexBundelIndices": [
           0
         ],
-        "geometricInfo": {
-          "view": {
-            "offset": 8352,
-            "length": 2088,
-            "count": 522,
-            "stride": 4
-          }
-        },
         "indexView": {
-          "offset": 10440,
+          "offset": 8352,
           "length": 540,
           "count": 270,
           "stride": 2
@@ -30,16 +22,8 @@
         "vertexBundelIndices": [
           1
         ],
-        "geometricInfo": {
-          "view": {
-            "offset": 14004,
-            "length": 756,
-            "count": 189,
-            "stride": 4
-          }
-        },
         "indexView": {
-          "offset": 14760,
+          "offset": 11916,
           "length": 162,
           "count": 81,
           "stride": 2
@@ -79,7 +63,7 @@
       },
       {
         "view": {
-          "offset": 10980,
+          "offset": 8892,
           "length": 3024,
           "count": 63,
           "stride": 48
@@ -121,6 +105,6 @@
       "z": 0.013938126154243946
     }
   },
-  "_dataLength": 14922,
-  "_hash": 3575499626
+  "_dataLength": 12078,
+  "_hash": 366472583
 }
